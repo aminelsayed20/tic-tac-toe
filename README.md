@@ -8,6 +8,6 @@ to children![Screenshot 2022-06-28 170034](https://user-images.githubusercontent
 ![Screenshot 2022-06-28 170224](https://user-images.githubusercontent.com/73761484/176241358-2fae323a-24f1-4d77-8384-0750dfa37b3b.png)
 ![Screenshot 2022-06-28 170249](https://user-images.githubusercontent.com/73761484/176241473-24409073-c195-4bf5-bc11-49adc9870dd1.png)
 
-with to division (easy and hard)
+with tow division (easy and hard)
 
 I developed it when I was in my second year at the Faculty of Computers and Information, Modern Academy
